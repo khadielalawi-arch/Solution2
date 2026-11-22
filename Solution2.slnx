@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Bank.API/Bank.API.csproj" Id="92b1d6d3-c728-4ed1-8118-5b979ccee87a" />
+  <Project Path="Bank.Application/Bank.Application.csproj" Id="ebd32666-0004-4c0f-9193-593018f1ca2a" />
+  <Project Path="Bank.Domain/Bank.Domain.csproj" />
+  <Project Path="Bank.Infrastructure/Bank.Infrastructure.csproj" Id="9093304c-6217-475a-ab88-537b931dec52" />
+</Solution>
